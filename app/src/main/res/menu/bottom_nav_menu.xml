@@ -7,7 +7,7 @@
         android:title="Home"
         tools:ignore="HardcodedText" />
     <item
-        android:id="@+id/newsFragment"
+        android:id="@+id/searchFragment"
         android:title="News"
         tools:ignore="HardcodedText" />
 </menu>
