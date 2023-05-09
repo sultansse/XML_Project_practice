@@ -2,4 +2,6 @@
     <string name="app_name">XML Project practice</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_home">Hello from HOME fragment</string>
+    <string name="hello_from_search">Hello from SEARCH fragment</string>
 </resources>

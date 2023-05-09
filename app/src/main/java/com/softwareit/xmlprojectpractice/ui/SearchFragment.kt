@@ -25,4 +25,9 @@ class SearchFragment : Fragment() {
 
 
     }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        _binding = null
+    }
 }
